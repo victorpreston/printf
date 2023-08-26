@@ -1,0 +1,90 @@
+root@7e4637623d66:/printf# betty *.c
+
+========== 0-functions.c ==========
+print_char
+print_string
+print_percent
+print_int
+print_binary
+
+========== 1-functions.c ==========
+print_unsigned
+print_octal
+print_hexadecimal
+print_hexa_upper
+print_hexa
+
+========== 2-functions.c ==========
+print_pointer
+print_non_printable
+print_reverse
+print_rot13string
+
+========== 3-get_flags.c ==========
+get_flags
+
+========== 4-get_conversions.c ==========
+get_precision
+
+========== 5-get_size.c ==========
+get_size
+
+========== 6-get_width.c ==========
+get_width
+
+========== 7-handlers_print.c ==========
+handle_print
+
+========== 8-handlers_write.c ==========
+handle_write_char
+write_number
+write_num
+write_unsgnd
+write_pointer
+
+========== 9-modifiers.c ==========
+is_printable
+append_hexa_code
+is_digit
+convert_size_number
+convert_size_unsgnd
+
+========== main.c ==========
+main.c:12: WARNING: please, no spaces at the start of a line
+main.c:13: WARNING: please, no spaces at the start of a line
+main.c:14: WARNING: please, no spaces at the start of a line
+main.c:15: WARNING: please, no spaces at the start of a line
+main.c:17: WARNING: please, no spaces at the start of a line
+main.c:18: WARNING: please, no spaces at the start of a line
+main.c:19: WARNING: please, no spaces at the start of a line
+main.c:20: WARNING: please, no spaces at the start of a line
+main.c:21: WARNING: please, no spaces at the start of a line
+main.c:22: WARNING: please, no spaces at the start of a line
+main.c:23: WARNING: please, no spaces at the start of a line
+main.c:24: WARNING: please, no spaces at the start of a line
+main.c:25: WARNING: please, no spaces at the start of a line
+main.c:26: WARNING: please, no spaces at the start of a line
+main.c:27: WARNING: please, no spaces at the start of a line
+main.c:28: WARNING: please, no spaces at the start of a line
+main.c:29: WARNING: please, no spaces at the start of a line
+main.c:30: WARNING: please, no spaces at the start of a line
+main.c:31: WARNING: please, no spaces at the start of a line
+main.c:32: WARNING: please, no spaces at the start of a line
+main.c:33: WARNING: please, no spaces at the start of a line
+main.c:34: WARNING: please, no spaces at the start of a line
+main.c:35: WARNING: please, no spaces at the start of a line
+main.c:36: WARNING: please, no spaces at the start of a line
+main.c:37: WARNING: please, no spaces at the start of a line
+main.c:38: WARNING: please, no spaces at the start of a line
+main.c:39: WARNING: please, no spaces at the start of a line
+main.c:40: WARNING: please, no spaces at the start of a line
+main.c:41: WARNING: please, no spaces at the start of a line
+main.c:42: WARNING: please, no spaces at the start of a line
+main.c:43: WARNING: please, no spaces at the start of a line
+total: 0 errors, 31 warnings, 44 lines checked
+main
+
+========== _printf.c ==========
+_printf
+print_buffer
+root@7e4637623d66:/printf# 
